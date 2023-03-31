@@ -4,6 +4,6 @@
 int main()
 {
     int x=printf("Hello"); //in x it will store that how many characters x did printed
-    printf("%d",x);
+    printf("\n %d",x);
     return 0;
 }

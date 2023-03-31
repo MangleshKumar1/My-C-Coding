@@ -1,5 +1,5 @@
+// 3. Write a program to swap values of two int variables
 #include<stdio.h>
-
 int main()
 {
     int x=2,y=3;
