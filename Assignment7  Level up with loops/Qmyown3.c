@@ -1,0 +1,1 @@
+// write a program to find common divisor of two numbers
